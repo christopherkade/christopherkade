@@ -1,5 +1,5 @@
 ### Welcome to my Github ✨
 
-You can find more information about me [here](https://christopherkade.com/).
+My projects over here are a mix of serious and random ideas, some are actively being maintained while others are gathering dust, so feel free to have a look around !
 
-Did you know? The hummus industry has grown from a mere $5 million in 2002 to $725 million annually in 2016 according to numbers cited by the USA Dry Pea & Lentil Council. :two_hearts:
+You can find more information about me [here](https://christopherkade.com/).
